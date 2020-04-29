@@ -7,21 +7,13 @@ date:   2020-04-22 21:03:36 +0530
 Dedicated and experienced DevOps Engineer with extensive knowledge of engineering principles, theories, and standards. Bringing leadership, drive, and over five years of experience to the table. Proven track record of finishing complex projects ahead of schedule. Substantial experience in analyzing problems and offering effective solutions that help to alleviate them. Adept in overseeing the agile software development cycle, and working with other professionals to ensure that projects are successfully completed.
 
 
+## Education
+### University of Vermont 2012 - 2016 Burlington, VT
+   ##### Bachelor's in Computer Science
 
-# Education
-### **University of Vermont** `2012 - 2016`
-
-```
-Burlington, VT
-```
-
-- BA in Computer Science
-
-# Experience
-
-
-## **DevOps Engineer, DealerPolicy, Williston Vermont**
-![dp_logo](/assets/images/dp_logo.png) <!-- .element height="50%" width="50%" -->
+## Experience
+### DevOps Engineer, DealerPolicy, Williston Vermont
+<img src="/assets/images/dp_logo.png" width="200" height="100" />
 *  Implement and design monitoring and alerting solutions.
 
 * Contribute to Git based source control with peer reviewed code. C#, PHP, JS
@@ -29,17 +21,14 @@ Burlington, VT
 * Provide off hour support, maintenance,  and escalations. 
 
 
-## **Systems Engineer, MyWebGrocer, Winooski Vermont**
-![mwg_logo](/assets/images/mwg_logo.png) <!-- .element height="50%" width="50%" -->
+### Systems Engineer, MyWebGrocer, Winooski Vermont
+<img src="/assets/images/mwg_logo.png" width="200" height="100" />
 * Troubleshooting Redis, Couchbase, Memcached, RabbitMQ.
 
 * Provide on-call support for off-hour systems troubleshooting in addition to Technical Incident Manager.
 
-* Design & Implement application monitoring
- utilities for infrastructure asset management, DevOps monitoring / alerting.
+* Designed & Implemented application monitoring utilities for infrastructure asset management, DevOps monitoring / alerting.
 * Infrastructure and Network management VMWare, Azure
-
-
 
 # Technical Experience
 |||
@@ -51,7 +40,6 @@ Burlington, VT
 | **DATABASES** | MsSQL, MySQL / MariaDB, Postgres |
 
 ####   Basic knowledge of **C**, **x86 assembly**, **Natural**
-
 
 Additional Info
 ----------------------------------------
