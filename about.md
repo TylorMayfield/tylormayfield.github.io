@@ -40,6 +40,11 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 | **MONITORING** | RELK, Selenium, LogicMonitor, Prometheus, Grafana, Splunk, Kusto |
 | **DATABASES** | MsSQL, MySQL / MariaDB, Postgres |
 
+|-------|--------|
+| ambrosia | gala | 
+| pink lady | jazz | 
+| honeycrisp | granny smith | 
+
 ####   Basic knowledge of **C**, **x86 assembly**, **Natural**
 
 Additional Info
