@@ -9,17 +9,19 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 
 
 # Education
+### **University of Vermont** `2012 - 2016`
 
-2012-2016
-:   **BS, Computer Science**; University of Vermont (Burlington)
+```
+Burlington, VT
+```
 
-*Minor: English*
+- BA in Computer Science
 
 # Experience
 
 
-## **__DevOps Engineer__ ,DealerPolicy, Williston Vermont**
-![dp_logo](/assets/images/dp_logo.png)
+## **DevOps Engineer, DealerPolicy, Williston Vermont**
+![dp_logo](/assets/images/dp_logo.png) <!-- .element height="50%" width="50%" -->
 *  Implement and design monitoring and alerting solutions.
 
 * Contribute to Git based source control with peer reviewed code. C#, PHP, JS
@@ -27,8 +29,8 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 * Provide off hour support, maintenance,  and escalations. 
 
 
-## **__Systems Engineer__ ,MyWebGrocer, Winooski Vermont**
-![mwg_logo](/assets/images/mwg_logo.png)
+## **Systems Engineer, MyWebGrocer, Winooski Vermont**
+![mwg_logo](/assets/images/mwg_logo.png) <!-- .element height="50%" width="50%" -->
 * Troubleshooting Redis, Couchbase, Memcached, RabbitMQ.
 
 * Provide on-call support for off-hour systems troubleshooting in addition to Technical Incident Manager.
@@ -40,11 +42,13 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 
 
 # Technical Experience
- ###   **SYSTEMS:** Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL
-###   **LANGUAGES:** Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL
-###   **TOOLSETS:** Octopus, TeamCity, Jenkins, Bitbucket, Jira, VMWare, Azure Devops
-###   **MONITORING:** RELK, Selenium, LogicMonitor, Prometheus, Grafana, Splunk, Kusto
-###   **DATABASES:** MsSQL, MySQL / MariaDB, Postgres 
+| | |
+|--|--|
+| **SYSTEMS** | Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL |
+| **LANGUAGES** | PHP, Java, Perl, Bash, Powershell, T-Sql |
+| **TOOLSETS** | Octopus, TeamCity, Jenkins, Bitbucket, Jira, VMWare, Azure Devops |
+| **MONITORING** | RELK, Selenium, LogicMonitor, Prometheus, Grafana, Splunk, Kusto |
+| **DATABASES** | MsSQL, MySQL / MariaDB, Postgres |
 
 ####   Basic knowledge of **C**, **x86 assembly**, **Natural**
 
