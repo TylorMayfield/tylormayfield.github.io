@@ -14,7 +14,7 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 #### Bachelor's in Computer Science
 
 ## Experience
-### DevOps Engineer, DealerPolicy, Williston Vermont <img src="/assets/images/dp_logo.png" width="100" height="50" />
+### DevOps Engineer, DealerPolicy, Williston Vermont 
 
 * -- Implement and design monitoring and alerting solutions.
 
@@ -23,7 +23,7 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 * -- Provide off hour support, maintenance,  and escalation support. 
 
 
-### Systems Engineer, MyWebGrocer, Winooski Vermont <img src="/assets/images/mwg_logo.png" width="100" height="50" />
+### Systems Engineer, MyWebGrocer, Winooski Vermont 
 
 * -- Troubleshooting Redis, Couchbase, Memcached, RabbitMQ.
 
