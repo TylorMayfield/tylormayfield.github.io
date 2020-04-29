@@ -4,8 +4,27 @@ title:  "About Me"
 date:   2020-04-22 21:03:36 +0530
 ---
 
+
+
 Dedicated and experienced DevOps Engineer with extensive knowledge of engineering principles, theories, and standards. Bringing leadership, drive, and over five years of experience to the table. Proven track record of finishing complex projects ahead of schedule. Substantial experience in analyzing problems and offering effective solutions that help to alleviate them. Adept in overseeing the agile software development cycle, and working with other professionals to ensure that projects are successfully completed.
 
+
+<div class="profile-intro row introclass" id="intro">
+        <div class="col-md-4 profile-col">
+          <div class="profile-pic">
+            <div class="profile-border">
+              <img src="/assets/images/tylor.jpg" alt="Vertica CV/Resume">
+            </div>          
+          </div>
+        </div>
+        <div class="col-md-7" style="">
+          <h1 class="intro-title1">Hi, I'm <span class="color1 bold">John Rex !</span></h1>
+          <h2 class="intro-title2">Designer / Web Developer</h2>
+          <div class="vt_description">
+            Turpis, sit amet iaculis dui consectetur at. Cras sagittis molestie orci. Suspendisse ut laoreet mi. Phasellus eu tortor vehicula, blandit enim eu, auctor massa. Nulla ultricies tortor dolor, sit amet suscipit enim condimentum id. Etiam eget iaculis tellus. Varius sit amet.
+          </div>
+        </div>
+      </div>
 
 ## Education
 ### University of Vermont 2012 - 2016 Burlington, VT
