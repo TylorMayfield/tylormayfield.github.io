@@ -18,7 +18,7 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 
 * Contribute to Git based source control with peer reviewed code. C#, PHP, JS
 
-* Provide off hour support, maintenance,  and escalations. 
+* Provide off hour support, maintenance,  and escalation support. 
 
 
 ### Systems Engineer, MyWebGrocer, Winooski Vermont <img src="/assets/images/mwg_logo.png" width="100" height="50" />
