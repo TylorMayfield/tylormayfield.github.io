@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "About Me"
 date:   2020-04-22 21:03:36 +0530
 ---
