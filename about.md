@@ -16,24 +16,23 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 ## Experience
 ### DevOps Engineer, DealerPolicy, Williston Vermont <img src="/assets/images/dp_logo.png" width="100" height="50" />
 
-*  Implement and design monitoring and alerting solutions.
+* -- Implement and design monitoring and alerting solutions.
 
-* Contribute to Git based source control with peer reviewed code. C#, PHP, JS
+* -- Contribute to Git based source control with peer reviewed code. C#, PHP, JS
 
-* Provide off hour support, maintenance,  and escalation support. 
+* -- Provide off hour support, maintenance,  and escalation support. 
 
 
 ### Systems Engineer, MyWebGrocer, Winooski Vermont <img src="/assets/images/mwg_logo.png" width="100" height="50" />
 
-* Troubleshooting Redis, Couchbase, Memcached, RabbitMQ.
+* -- Troubleshooting Redis, Couchbase, Memcached, RabbitMQ.
 
-* Provide on-call support for off-hour systems troubleshooting in addition to Technical Incident Manager.
+* -- Provide on-call support for off-hour systems troubleshooting in addition to Technical Incident Manager.
 
-* Designed & Implemented application monitoring utilities for infrastructure asset management, DevOps monitoring / alerting.
-* Infrastructure and Network management VMWare, Azure
+* -- Designed & Implemented application monitoring utilities for infrastructure asset management, DevOps monitoring / alerting.
+* -- Infrastructure and Network management VMWare, Azure
 
 ## Technical Experience
-
 ||| |
 |-------|--------|--------|
 | SYSTEMS | | Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL | 
@@ -48,6 +47,6 @@ Additional Info
 ----------------------------------------
 
 * Human Languages:
-     * English (native speaker)
-     * French (Intermediate)
+     * -- English (native speaker)
+     * -- French (Intermediate)
 
