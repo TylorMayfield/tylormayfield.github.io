@@ -33,7 +33,7 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 
 # Technical Experience
 |||
-|--|--|
+|---|---|
 | **SYSTEMS** | Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL |
 | **LANGUAGES** | PHP, Java, Perl, Bash, Powershell, T-Sql |
 | **TOOLSETS** | Octopus, TeamCity, Jenkins, Bitbucket, Jira, VMWare, Azure Devops |
