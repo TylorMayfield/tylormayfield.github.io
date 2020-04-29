@@ -25,7 +25,7 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
         </div>
       </div>
       <div class="timeline-wrap">
-        <div class="timeline-bg"	
+        <div class="timeline-bg">
 			<section class="timeline intro" id="intro">
 			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="line row timeline-margin ">
           <div class="content-wrap" style="">
