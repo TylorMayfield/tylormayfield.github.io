@@ -48,7 +48,6 @@ Additional Info
 ----------------------------------------
 
 * Human Languages:
-
      * English (native speaker)
      * French (Intermediate)
 
