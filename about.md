@@ -9,7 +9,7 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 
 ## Education
 ### University of Vermont 2012 - 2016 Burlington, VT
-   #### Bachelor's in Computer Science
+#### Bachelor's in Computer Science
 
 ## Experience
 ### DevOps Engineer, DealerPolicy, Williston Vermont <img src="/assets/images/dp_logo.png" width="100" height="50" />
@@ -32,19 +32,14 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 * Infrastructure and Network management VMWare, Azure
 
 # Technical Experience
-|||
-|---|---|
-| **SYSTEMS** | Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL |
-| **LANGUAGES** | PHP, Java, Perl, Bash, Powershell, T-Sql |
-| **TOOLSETS** | Octopus, TeamCity, Jenkins, Bitbucket, Jira, VMWare, Azure Devops |
-| **MONITORING** | RELK, Selenium, LogicMonitor, Prometheus, Grafana, Splunk, Kusto |
-| **DATABASES** | MsSQL, MySQL / MariaDB, Postgres |
 
 |||
 |-------|--------|
-| ambrosia | gala | 
-| pink lady | jazz | 
-| honeycrisp | granny smith | 
+| SYSTEMS | Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL | 
+| LANGUAGES |  PHP, Java, Perl, Bash, Powershell, T-Sql | 
+| MONITORING | Octopus, TeamCity, Jenkins, Bitbucket, Jira, VMWare, Azure Devops | 
+| TOOLSETS | RELK, Selenium, LogicMonitor, Prometheus, Grafana, Splunk, Kusto | 
+| DATABASES | MsSQL, MySQL / MariaDB, Postgres | 
 
 ####   Basic knowledge of **C**, **x86 assembly**, **Natural**
 
