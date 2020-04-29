@@ -42,6 +42,7 @@ Burlington, VT
 
 
 # Technical Experience
+|||
 |--|--|
 | **SYSTEMS** | Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL |
 | **LANGUAGES** | PHP, Java, Perl, Bash, Powershell, T-Sql |
