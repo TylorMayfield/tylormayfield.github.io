@@ -23,7 +23,6 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 
 ### Systems Engineer, MyWebGrocer, Winooski Vermont <img src="/assets/images/mwg_logo.png" width="100" height="50" />
 
-
 * Troubleshooting Redis, Couchbase, Memcached, RabbitMQ.
 
 * Provide on-call support for off-hour systems troubleshooting in addition to Technical Incident Manager.
@@ -31,15 +30,15 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 * Designed & Implemented application monitoring utilities for infrastructure asset management, DevOps monitoring / alerting.
 * Infrastructure and Network management VMWare, Azure
 
-# Technical Experience
+## Technical Experience
 
-|||
-|-------|--------|
-| SYSTEMS | Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL | 
-| LANGUAGES |  PHP, Java, Perl, Bash, Powershell, T-Sql | 
-| MONITORING | Octopus, TeamCity, Jenkins, Bitbucket, Jira, VMWare, Azure Devops | 
-| TOOLSETS | RELK, Selenium, LogicMonitor, Prometheus, Grafana, Splunk, Kusto | 
-| DATABASES | MsSQL, MySQL / MariaDB, Postgres | 
+||| |
+|-------|--------|--------|
+| SYSTEMS | | Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL | 
+| LANGUAGES | | PHP, Java, Perl, Bash, Powershell, T-Sql | 
+| MONITORING | | Octopus, TeamCity, Jenkins, Bitbucket, Jira, VMWare, Azure Devops | 
+| TOOLSETS | | RELK, Selenium, LogicMonitor, Prometheus, Grafana, Splunk, Kusto | 
+| DATABASES |  | MsSQL, MySQL / MariaDB, Postgres | 
 
 ####   Basic knowledge of **C**, **x86 assembly**, **Natural**
 
