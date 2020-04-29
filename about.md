@@ -8,7 +8,6 @@ date:   2020-04-22 21:03:36 +0530
 
 Dedicated and experienced DevOps Engineer with extensive knowledge of engineering principles, theories, and standards. Bringing leadership, drive, and over five years of experience to the table. Proven track record of finishing complex projects ahead of schedule. Substantial experience in analyzing problems and offering effective solutions that help to alleviate them. Adept in overseeing the agile software development cycle, and working with other professionals to ensure that projects are successfully completed.
 
-
 <div class="profile-intro row introclass" id="intro">
         <div class="col-md-4 profile-col">
           <div class="profile-pic">
