@@ -18,7 +18,7 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 
 * -- Implement and design monitoring and alerting solutions.
 
-* -- Contribute to Git based source control with peer reviewed code. C#, PHP, JS
+* -- Contribute to Git based source control with peer reviewed code. C#, PHP, JS.
 
 * -- Provide off hour support, maintenance,  and escalation support. 
 
@@ -30,10 +30,11 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 * -- Provide on-call support for off-hour systems troubleshooting in addition to Technical Incident Manager.
 
 * -- Designed & Implemented application monitoring utilities for infrastructure asset management, DevOps monitoring / alerting.
-* -- Infrastructure and Network management VMWare, Azure
+* -- Infrastructure and Network management VMWare, Azure, AWS.
 
 ## Technical Experience
-||| |
+
+||||
 |-------|--------|--------|
 | SYSTEMS | | Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL | 
 | LANGUAGES | | PHP, Java, Perl, Bash, Powershell, T-Sql | 
