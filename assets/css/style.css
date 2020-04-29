@@ -42,20 +42,6 @@
   -o-background-size: cover;
   background-size: cover;
 }
-body {
-  font-family: 'Open Sans', sans-serif;
-  background-image: url('../img/background2.jpg');
-  background-attachment: fixed;
-  background-repeat: repeat-x;
-  background-color: #3b658a;
-  background-position: center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  position: relative !important;
-  padding: 10px;
-}
 @media (min-width: 240px) and (max-width: 719px) {
   body {
     background-image: none;
@@ -72,14 +58,6 @@ ul {
 .graduation-description ul, .job-description ul, .interest-description ul{margin: 0 0 1.6em 1.3333em; padding-left:40px;}
 hr {
   border: 0;
-}
-h1,
-h2 {
-  color: #249991;
-  margin-top: 0;
-}
-h3 {
-  color: #3b658a;
 }
 .btn {
   margin-right: 3px;
@@ -150,13 +128,6 @@ h3 {
 }
 .line-content {
   opacity: 1;
-}
-.wp-caption{
-	float:none;
-	max-width:100%!important;
-}
-.wp-caption-text{
-	font-size:100%;
 }
 /* ==========================================================
 ! 2. Tipography
