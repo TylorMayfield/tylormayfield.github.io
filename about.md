@@ -36,7 +36,7 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 
 ||||
 |-------|--------|--------|
-| SYSTEMS | | Windows Server 2008/2012, Debian /Ubuntu, Docker, CentOS / RHEL | 
+| SYSTEMS | | Windows Server 2008/2012, Debian, Docker, CentOS / RHEL | 
 | LANGUAGES | | PHP, Java, Perl, Bash, Powershell, T-Sql | 
 | MONITORING | | Octopus, TeamCity, Jenkins, Bitbucket, Jira, VMWare, Azure Devops | 
 | TOOLSETS | | RELK, Selenium, LogicMonitor, Prometheus, Grafana, Splunk, Kusto | 
