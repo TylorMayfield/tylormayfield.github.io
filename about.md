@@ -11,7 +11,7 @@ Dedicated and experienced DevOps Engineer with extensive knowledge of engineerin
 
 ## Education
 ### University of Vermont 2012 - 2016 Burlington, VT
-#### Bachelor's in Computer Science
+* Bachelor's in Computer Science
 
 ## Experience
 ### DevOps Engineer, DealerPolicy, Williston Vermont 
