@@ -18,7 +18,7 @@ texture:
   title: Tylor Mayfield
   tagline: DevOps Engineer
   date_format: "%b %-d, %Y"
-  style: yellow
+  style: green
   showNav: true
   showPicker: false
 
