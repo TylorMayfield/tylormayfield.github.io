@@ -22,7 +22,7 @@ authors:
     sal:
       name:           Ty
       site:           https://www.tsohg.com
-      avatar:         /assets/images/tylor.jpg
+      avatar:         https://www.tsohg.com/assets/images/tylor.jpg
       bio:            "Hi, I'm a DevOps engineer from Vermont that loves to create impractical solutions to everyday problems!"
       email:          tylor@tsohg.com
       twitter:        https://twitter.com/ghostbackwards
@@ -37,7 +37,7 @@ defaults:
     values:
       layout: post
       author: Ty
-      avatar: /assets/images/avatar1.jpg
+      avatar: https://www.tsohg.com/assets/images/tylor.jpg
       
   # all pages
   - scope:

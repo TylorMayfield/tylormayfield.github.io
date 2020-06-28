@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Ty
 title:  "H2oCoin Cryptocurrency"
 date:   2017-02-20 21:03:36 +0530
 ---
