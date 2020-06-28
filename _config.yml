@@ -37,7 +37,7 @@ defaults:
     values:
       layout: post
       author: Ty
-      avatar: /assets/images/tylor.jpg
+      avatar: tsohg.com/assets/images/tylor.jpg
       
   # all pages
   - scope:
