@@ -1,5 +1,5 @@
 # Site
-name: 'Tylor Mayfield'
+name: 'Ty Mayfield'
 description: 'A DevOps engineer from Vermont that loves to create impractical solutions to everyday problems'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -20,7 +20,7 @@ plugins:
   
 authors:
     Ty:
-      name: Ty
+      name: Ty Mayfield
       site: https://www.tsohg.com
       avatar: https://tsohg.com/assets/images/tylor.jpg
       bio: "Hi, I'm a DevOps engineer from Vermont that loves to create impractical solutions to everyday problems!"
