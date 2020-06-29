@@ -1,0 +1,17 @@
+---
+layout: post
+author: Ty
+title:  "Agile QA"
+date:   2020-06-29 
+image: https://images.unsplash.com/photo-1541960071727-c531398e7494?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+categories: [Topics]
+---
+
+
+For most DevOps teams, time, energy, and resources are worth it to become agile. Since the software industry is dedicated to agile development, there is hardly any awareness of agile quality assurance. Some companies are slow to implement them because they have limited experience, or are worried about the management change that will require switching from their existing process to a new one. The product and the company are innovative and iterative and drive the development of a product that customers know and love.
+
+Agile QA testing is the only way that continuous integration can take place, and it requires both developers and QA engineers to be on the same page from the outset. Performance standards for your product should not fall by the wayside because quality assurance falls short in the development process. 
+
+With agile testing, it is normal for your team to work on several floors or modules at a given time. While continuous maintenance and re-evaluation of the backlog is part of the agile concept, the team must accept and accept disruptions. Whether you work with a decentralized or nearshore team, there are many ways to streamline the transition process. Look for a provider who has years of experience and has worked with customers in this area. As an agile tester, you can help assess the scope and size of your testing efforts based on the user history. They are involved in the design of the software and work closely with the developers to evaluate and advise on testability aspects. This collaboration will help you design and execute both automated and manual tests, including exploratory tests.
+
+Agile is a learning process that is designed to have shortcomings, and design a process that suits them.  It could even be said that our responsibility is to fail from time to time, but to fail quickly, to learn from failure and to learn from failure.
