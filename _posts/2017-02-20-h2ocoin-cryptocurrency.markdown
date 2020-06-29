@@ -3,7 +3,7 @@ layout: post
 author: Ty
 title:  "H2oCoin Cryptocurrency"
 date:   2017-02-20
-image: https://tsohg.com/assets/images/h2ocoin_background.jpg
+image: https://images.unsplash.com/photo-1524673450801-b5aa9b621b76?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 categories: [Projects]
 ---
 

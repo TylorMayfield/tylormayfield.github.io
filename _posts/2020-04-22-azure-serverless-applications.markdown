@@ -3,7 +3,7 @@ layout: post
 author: Ty
 title:  "Azure Serverless Applications"
 date:   2020-04-22 
-image: https://images.unsplash.com/photo-1584169417032-d34e8d805e8b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1470&q=80
+image: https://images.unsplash.com/photo-1564457461758-8ff96e439e83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80
 categories: [Topics]
 ---
 
