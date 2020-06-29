@@ -3,9 +3,8 @@ layout: post
 author: Ty
 title:  "H2oCoin Cryptocurrency"
 date:   2017-02-20 21:03:36 +0530
-tags: []
+image: https://tsohg.com/assets/images/h2ocoin_background.jpg
 ---
-
 
 Most people know [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin), but a little-known fact is that there are literally thousands of alternative cryptocurrencies. Another aspect that all cryptocurrencies have in common is volatility, which may seem like a deterrent to the typical investor. For day traders, however, this is a big plus; trading in Bitcoin and Altcoins allows traders to benefit from monstrous price fluctuations that are simply not seen in traditional marketplaces. 
 
