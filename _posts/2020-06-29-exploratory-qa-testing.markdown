@@ -3,7 +3,7 @@ layout: post
 author: Ty
 title:  "Exploratory QA Testing"
 date:   2020-06-29 
-image: https://images.unsplash.com/photo-1465310477141-6fb93167a273?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+image: https://images.unsplash.com/photo-1496950866446-3253e1470e8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 categories: [Topics]
 ---
 
