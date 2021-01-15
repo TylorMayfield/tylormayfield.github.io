@@ -1,0 +1,9 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: H2oCoin
+  gh_user: tylormayfield
+  repo: H2Ocoin
+  img: /images/7074643.png
+  desc: Cryptocurrency designed from the ground up to support sustainable water projects in counties without a reliable source of clean water.
+  link: https://thewaterproject.org/community/projects/kenya/rwht-in-kenya-4450

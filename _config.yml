@@ -1,58 +1,35 @@
-# Site
-name: 'Ty Mayfield'
-description: 'A DevOps engineer from Vermont that loves to create impractical solutions to everyday problems'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: '/'
-disqus: 'ghostbackwards'
-email: 'tylor@tsohg.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# Site settings
+title: Tylor Mayfield
+description: 'Business Card Page'
+url: 'https://tsohg.com'
+baseurl: ''
+profilepic: '/images/TylorMayfield.png'
+bkimage: '/images/f5icdilx.bmp'
+google_analytics: UA-XXXXXX-X
+font_awesome: 'XXXXXXXXXX.js'
 
-include: ["_pages"]
-permalink: /:title/
+author:
+  name: 'Tylor Mayfield'
+  email: tylor@tsohg.com
+  twitter_username: ghostbackwards
+  github_username:  tylormayfield
+  linkedin_username:  tylor-mayfield-a5991b78
+  strava: https://www.strava.com/athletes/52174287
 
-# Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-  
-authors:
-    Ty:
-      name: Ty Mayfield
-      site: https://www.tsohg.com
-      avatar: https://tsohg.com/assets/images/tylor.jpg
-      bio: "Hi, I'm a DevOps engineer from Vermont that loves to create impractical solutions to everyday problems!"
-      email: tylor@tsohg.com
-      twitter: https://twitter.com/ghostbackwards
-
- 
-# Defaults
-defaults:
-
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: Ty
-      avatar: https://tsohg.com/assets/images/tylor.jpg
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Syntax
+# Build settings
+destination: _site
 markdown: kramdown
 highlighter: rouge
 
-# Paginate
-paginate: 10
+sass:
+    sass_dir: _sass
+    style: compressed
 
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-
-# Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']
