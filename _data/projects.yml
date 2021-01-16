@@ -8,6 +8,13 @@
   desc: Cryptocurrency designed from the ground up to support sustainable water projects in counties without a reliable source of clean water.
   link: https://thewaterproject.org/community/projects/kenya/rwht-in-kenya-4450
 
+ - name: fakerator
+  gh_user: tylormayfield
+  repo: fakerator
+  img: https://raw.githubusercontent.com/icebob/fakerator/gh-pages/binary-1327501.jpg
+  desc: Random fake data generator with localization in colaboration with icebob
+  link: https://github.com/TylorMayfield/fakerator
+
 - name: HopscotchJS
   gh_user: tylormayfield
   repo: hopscotchJS
