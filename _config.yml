@@ -1,16 +1,16 @@
 # Site settings
-title: Tylor Mayfield
+title: 'Tylor Mayfield'
 description: 'Business Card Page'
 url: 'https://tsohg.com''
 profilepic: '/images/TylorMayfield.png'
 bkimage: '/images/12322820_10208140961391237_6106166124565719117_o.jpg'
 author:
   name: 'Tylor Mayfield'
-  email: tylor@tsohg.com
-  twitter_username: ghostbackwards
-  github_username:  tylormayfield
-  linkedin_username:  tylor-mayfield-a5991b78
-  strava: https://www.strava.com/athletes/52174287
+  email: 'tylor@tsohg.com'
+  twitter_username: 'ghostbackwards'
+  github_username:  'tylormayfield'
+  linkedin_username:  'tylor-mayfield-a5991b78'
+  strava: 'https://www.strava.com/athletes/52174287'
 
 # Build settings
 destination: _site
